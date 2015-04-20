@@ -1,0 +1,20 @@
+{
+  "name": "typographic-arrows",
+  "description": "Micro module for real arrows",
+  "version": "0.0.0",
+  "keywords": [
+    "typographic",
+    "arrows",
+    "textr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrepolischuk/typographic-arrows.git"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "main": "index.js",
+  "author": "Andrey Polischuk <andre.polischuk@gmail.com>",
+  "license": "MIT"
+}
