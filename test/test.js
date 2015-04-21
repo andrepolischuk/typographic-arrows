@@ -1,4 +1,3 @@
-
 var arrows = require('..');
 var assert = require('assert');
 

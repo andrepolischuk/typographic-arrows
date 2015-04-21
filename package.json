@@ -1,12 +1,15 @@
 {
   "name": "typographic-arrows",
-  "description": "Micro module for real arrows",
+  "description": "Use real arrows, not alphabetic substitutes",
   "version": "0.1.0",
   "keywords": [
     "typographic",
     "arrows",
     "textr"
   ],
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/andrepolischuk/typographic-arrows.git"
