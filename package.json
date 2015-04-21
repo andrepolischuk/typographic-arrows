@@ -1,6 +1,6 @@
 {
   "name": "typographic-arrows",
-  "description": "Micro module for real arrows",
+  "description": "Use real arrows, not alphabetic substitutes",
   "version": "0.1.0",
   "keywords": [
     "typographic",

@@ -1,25 +1,27 @@
 # typographic-arrows [![Build Status](https://travis-ci.org/andrepolischuk/typographic-arrows.svg?branch=master)](https://travis-ci.org/andrepolischuk/typographic-arrows)
 
-  Micro module for real arrows
+> Use real arrows, not alphabetic substitutes
 
-## Instalation
+Micro module for real arrows
 
-```sh
-$ npm install typographic-arrows
+
+## Installation
+
+```
+npm install --save typographic-arrows
 ```
 
-## Use
+
+## Usage
 
 ```js
-var arrows = require('typographic-arrows')
+var arrows = require('typographic-arrows');
 
-arrows('a -> b')
-// a → b
-
-arrows('a => b')
-// a ⇒ b
+arrows('a -> b'); // a → b
+arrows('a => b'); // a ⇒ b
 ```
+
 
 ## License
 
-  MIT
+MIT © [Andrey Polischuk](https://github.com/andrepolischuk)
