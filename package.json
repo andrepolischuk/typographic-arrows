@@ -7,6 +7,9 @@
     "arrows",
     "textr"
   ],
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/andrepolischuk/typographic-arrows.git"
