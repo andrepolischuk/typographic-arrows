@@ -15,6 +15,9 @@
     "mocha": "^2.2.4"
   },
   "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
   "author": "Andrey Polischuk <andre.polischuk@gmail.com>",
   "license": "MIT"
 }
