@@ -7,10 +7,7 @@
     "arrows",
     "textr"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/andrepolischuk/typographic-arrows.git"
-  },
+  "repository": "andrepolischuk/typographic-arrows",
   "devDependencies": {
     "mocha": "^2.2.4"
   },

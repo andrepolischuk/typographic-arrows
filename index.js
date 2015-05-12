@@ -3,6 +3,8 @@
 
 /**
  * Expose transformer
+ *
+ * @param {String} input
  * @api public
  */
 

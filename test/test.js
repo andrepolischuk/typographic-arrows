@@ -1,4 +1,6 @@
 
+'use strict';
+
 var arrows = require('..');
 var assert = require('assert');
 
