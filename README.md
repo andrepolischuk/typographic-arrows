@@ -4,10 +4,10 @@
 
   Micro module for real arrows
 
-## Instalation
+## Install
 
 ```sh
-$ npm install --save typographic-arrows
+npm install --save typographic-arrows
 ```
 
 ## Use

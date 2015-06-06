@@ -1,7 +1,7 @@
 
 'use strict';
 
-var arrows = require('..');
+var arrows = require('./');
 var assert = require('assert');
 
 describe('arrows(input)', function() {
