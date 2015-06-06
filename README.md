@@ -10,7 +10,7 @@
 npm install --save typographic-arrows
 ```
 
-## Use
+## Usage
 
 ```js
 var arrows = require('typographic-arrows');
