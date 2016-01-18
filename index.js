@@ -1,6 +1,4 @@
-'use strict';
-
-module.exports = function (input) {
+export default function typographicArrows(input) {
   return input
     .replace(/<->/gim, '↔')
     .replace(/<=>/gim, '⇔')
