@@ -2,7 +2,7 @@
 
 > Use real arrows, not alphabetic substitutes
 
-Micro module for real arrows
+Micro module for real arrows.
 
 ## Install
 
@@ -13,7 +13,8 @@ npm install --save typographic-arrows
 ## Usage
 
 ```js
-var arrows = require('typographic-arrows');
+import arrows from 'typographic-arrows';
+
 arrows('a <- b'); // a ← b
 arrows('a -> b'); // a → b
 arrows('a <-> b'); // a ↔ b
@@ -21,6 +22,16 @@ arrows('a <= b'); // a ⇐ b
 arrows('a => b'); // a ⇒ b
 arrows('a <=> b'); // a ⇔ b
 ```
+
+## API
+
+### arrows(input)
+
+#### input
+
+Type: `string`
+
+Text for transform.
 
 ## License
 
