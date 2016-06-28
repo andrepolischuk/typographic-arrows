@@ -6,4 +6,4 @@ export default function typographicArrows(input) {
     .replace(/->/gim, '→')
     .replace(/<=/gim, '⇐')
     .replace(/=>/gim, '⇒');
-};
+}
