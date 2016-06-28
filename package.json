@@ -1,6 +1,6 @@
 {
   "name": "typographic-arrows",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Micro module for real arrows",
   "main": "index.es5.js",
   "jsnext:main": "index.js",
